@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krish\\Documents\\Revature\\Training\\Project-Code\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\krish\\Documents\\Revature\\Training\\Team-10\\Team-10\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\krish\\Documents\\Revature\\Training\\Project-Code\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\Users\\krish\\Documents\\Revature\\Training\\Team-10\\Team-10\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krish\\Documents\\Revature\\Training\\Project-Code\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\krish\\Documents\\Revature\\Training\\Team-10\\Team-10\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config"
