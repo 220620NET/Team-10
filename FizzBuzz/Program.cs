@@ -17,7 +17,7 @@ while (time <1){
 }
 
 for(int i = 1; i<=time; i++){
-    if(i%3 == 0 && i%5 ==0){
+    if(i%15 ==0){
         Console.WriteLine("fizz buzz"); // if divisible by 3 and 5 print "fizz buzz"
     }
     else if(i%5 == 0){
