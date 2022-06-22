@@ -4,7 +4,9 @@
     If the user enters a number less than 1 the code will ask for another number.
     This occurs until a valid number has been entered.
 */ 
-Console.WriteLine("Hello!");
+Console.WriteLine("What is you name?");
+string name = Console.ReadLine();
+Console.WriteLine("Hello " +name+"!");
 Console.WriteLine("How long would you like to Fizz Buzz? Please enter a number greater than or equal to 1:");
 string Fizz = Console.ReadLine();
 int time = int.Parse(Fizz);
